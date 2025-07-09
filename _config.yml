@@ -1,3 +1,15 @@
-title: Demo TamrielCraft Website
-description: This is a demo site.
+title: TamrielCraft
+description: >-
+  Welcome to TamrielCraft — a Minecraft server recreating the Elder Scrolls universe.
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-include-cache
+
+# Optional extras
+markdown: kramdown
+
+# Disable/minimize these to get started
+minimal_mistakes_skin: "default"
+locale: "en-US"
