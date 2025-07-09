@@ -1,3 +1,3 @@
-# theme:
 title: Demo TamrielCraft Website
 description: This is a demo site.
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
