@@ -21,14 +21,14 @@ footer:
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@TamrielCraftOfficial"
     - label: "Instagram"
-      icon: "fa-brands fa-youtube"
-      url: "fa-brands fa-instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/tamrielcraft/"
     - label: "PlanetMinecraft"
-      icon: "fa-brands fa-youtube" #Doesn't exist so need an option.
+      icon: "fa-solid fa-earth-europe" #Doesn't exist so need an option.
       url: "https://www.planetminecraft.com/server/tamrielcraft/"
     - label: "Discord"
-      icon: "fa-brands fa-youtube"
-      url: "fa-brands fa-discord"
+      icon: "fa-brands fa-discord"
+      url: "https://discord.gg/ApShrYn"
 
 author:
   name: "TamrielCraft"
