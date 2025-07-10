@@ -22,8 +22,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
-    directory: _pages
-    
+    directory: _pages  
 # This will auto-apply layout: single to everything in _pages/ unless overridden.
 defaults:
   - scope:
@@ -31,6 +30,9 @@ defaults:
       type: "pages"
     values:
       layout: single
+
+paginate: 5
+paginate_path: "/updates/page:num/"
 
 footer:
   links:
