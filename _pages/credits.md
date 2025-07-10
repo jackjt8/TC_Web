@@ -6,6 +6,7 @@ excerpt: "Our team"
 author_profile: false
 classes: wide
 ---
+<div class="page__content">
 
 Here is a list of the current team at TamrielCraft
 
@@ -75,3 +76,6 @@ Here is a list of the current team at TamrielCraft
   </div>
 
 </div>
+
+</div>
+
