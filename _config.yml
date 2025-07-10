@@ -16,6 +16,14 @@ highlighter: rouge
 minimal_mistakes_skin: "neon"
 locale: "en-US"
 
+# This will auto-apply layout: single to everything in _pages/ unless overridden.
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: single
+
 footer:
   links:
     - label: "YouTube"
