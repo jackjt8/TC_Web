@@ -18,7 +18,7 @@ excerpt: "A community Minecraft project recreating Tamriel — one block at a ti
 ---
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
-  <h2>Welcome to TamrielCraft</h2>
+  <h2></h2>
   <p>
     TamrielCraft is an ambitious Minecraft project dedicated to recreating the entire continent of Tamriel — from the bustling streets of Solitude to the sacred halls of Vivec. Whether you're a seasoned builder, an Elder Scrolls fan, or just curious to explore, there's a place for you here.
   </p>
