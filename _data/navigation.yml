@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Updates" # Blog/Updates - TODO
-    url: /years/
+    url: /updates/
   - title: "Rules"
     url: /rules/
   - title: "Credits"
