@@ -1,9 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
+  - title: "Updates" # Blog/Updates - TODO
     url: /years/
-  - title: "Pages"
-    url: /pages/
-  - title: "Tags"
-    url: /tags/
+  - title: "Rules"
+    url: /rules/
+  - title: "Credits"
+    url: /credits/
+  - title: "Map"
+    url: "https://map.tamrielcraft.eu/"
