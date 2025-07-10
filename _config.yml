@@ -7,9 +7,29 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
   - jekyll-include-cache
 
-# Optional extras
+# Default ghpages/Jekyll
 markdown: kramdown
+highlighter: rouge
 
 # Disable/minimize these to get started
 minimal_mistakes_skin: "default"
 locale: "en-US"
+
+footer:
+  links:
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@TamrielCraftOfficial"
+    - label: "Instagram"
+      icon: "fa-brands fa-youtube"
+      url: "fa-brands fa-instagram"
+    - label: "PlanetMinecraft"
+      icon: "fa-brands fa-youtube" #Doesn't exist so need an option.
+      url: "https://www.planetminecraft.com/server/tamrielcraft/"
+    - label: "Discord"
+      icon: "fa-brands fa-youtube"
+      url: "fa-brands fa-discord"
+
+author:
+  name: "TamrielCraft"
+  avatar: "/assets/images/tc_profile256_clean_yellow.jpg"
