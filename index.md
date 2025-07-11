@@ -12,7 +12,7 @@ header:
       url: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://discord.gg/ApShrYn"
     - label: "Join the Server"
       url: "minecraft://tamrielcraft.eu"
-    - label: "Dynmap"
+    - label: "Map"
       url: /map/
 excerpt: "A community Minecraft project recreating Tamriel — one block at a time."
 ---
