@@ -13,7 +13,7 @@ header:
     - label: "Join the Server"
       url: "minecraft://tamrielcraft.eu"
     - label: "Dynmap"
-      url: "https://map.tamrielcraft.eu/"
+      url: /map/
 excerpt: "A community Minecraft project recreating Tamriel — one block at a time."
 ---
 
