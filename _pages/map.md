@@ -1,9 +1,8 @@
 ---
 title: "World Map"
 permalink: /map/
-layout: single
+layout: splash
 author_profile: false
-classes: wide2
 ---
 
 [Open Dynmap in New Tab](https://map.tamrielcraft.eu/)
