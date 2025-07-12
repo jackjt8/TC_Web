@@ -14,8 +14,8 @@ locale: "en-US"
 
 
 # Search
-search: true
-search_full_content: true
+#search: true
+#search_full_content: true # Search full page content not working likely due to GitHub Pages limitation.
 
 
 # SEO
