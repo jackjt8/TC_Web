@@ -10,14 +10,12 @@ nav_exclude: true
 Here is a list of the current team at TamrielCraft:
 
 # 🛕 THE TRIBUNAL [Administrators]
-BlueMoony - dee - Vivec
+BlueMoony · dee · Vivec
 
 
 
 # 🛡️ THE ORDINATORS [Moderators/Staff]
-Yvan - Nat - SamDren - Jackjt8 - NicovicTheSixth
-
-PresidentCrabo - CaptainQuantum - Pringlulz
+Yvan · Nat · SamDren · Jackjt8 · NicovicTheSixth · PresidentCrabo · CaptainQuantum · Pringlulz
 
 
 
