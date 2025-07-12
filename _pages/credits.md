@@ -6,12 +6,13 @@ excerpt: "Our team"
 author_profile: false
 nav_exclude: true
 ---
+<div style="text-align: center;">
 
 Here is a list of the current team at TamrielCraft:
 
 # 🛕 THE TRIBUNAL [Administrators]
 BlueMoony · dee · Vivec
-
+<small>Previously - Test_Name · Another_Test</small>
 
 
 # 🛡️ THE ORDINATORS [Moderators/Staff]
@@ -46,4 +47,6 @@ We’d like to thank everyone who has contributed to TamrielCraft over the years
 
 
 # ⚖️ ATTRIBUTIONS
-Media used with permission and/or under Creative Commons license. All rights reserved by their respective owners.
+<em>Media used with permission and/or under Creative Commons license. All rights reserved by their respective owners.</em>
+
+</div>
