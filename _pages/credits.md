@@ -1,6 +1,5 @@
 ---
 permalink: /credits/
-layout: single
 title: "Credits"
 excerpt: "Our team"
 author_profile: false
