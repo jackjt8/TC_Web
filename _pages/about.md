@@ -62,4 +62,4 @@ We’re always looking for passionate builders and Elder Scrolls fans to join us
 
 ---
 **Continue reading:**  
-➡️ [Rules](/rules/) · [Credits](/credits/)
+➡️ [Rules]({{ "/rules/" | relative_url }}) · [Credits]({{ "/credits/" | relative_url }})
