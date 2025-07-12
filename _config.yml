@@ -2,6 +2,8 @@ title: TamrielCraft
 description: >-
   Welcome to TamrielCraft — a Minecraft server recreating the Elder Scrolls universe.
 # logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+url: "https://jackjt8.github.io"
+baseurl: "/TC_Web"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
