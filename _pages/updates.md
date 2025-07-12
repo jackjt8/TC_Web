@@ -1,6 +1,7 @@
 ---
 title: "Updates"
 layout: archive
+collection: posts
 permalink: /updates/
 author_profile: false
 entries_layout: list
