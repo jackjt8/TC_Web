@@ -4,7 +4,8 @@ layout: single
 title: "Credits"
 excerpt: "Our team"
 author_profile: false
-nav_exclude: true
+previous: false
+next: false
 ---
 
 Here is a list of the current team at TamrielCraft:
