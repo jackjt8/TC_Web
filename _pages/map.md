@@ -9,13 +9,11 @@ author_profile: false
 
 <iframe src="https://map.tamrielcraft.eu/" width="100%" height="600" frameborder="0" allowfullscreen style="border:1px solid #444; border-radius: 8px;"></iframe>
 
----
-
 ## 🗺️ Map Legend
 
 The Dynmap includes custom icons to help identify important locations across Tamriel:
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 2rem; font-size: 0.95rem; font-weight: 400; border: 1px solid #ccc; padding: 1rem; border-radius: 8px; background-color: rgba(255, 255, 255, 0.03);">
 
   <div>
     <strong>🏙️ Major city or capital</strong><br>
@@ -64,7 +62,13 @@ The Dynmap includes custom icons to help identify important locations across Tam
 
 </div>
 
+---
 
-Hover over markers for the name of the build.
+---
 
-Many key locations can be teleported to using '/warp ...'.
+## 🧭 Navigation and Warps
+
+Hover over any Dynmap marker to view the name of the build or location.
+
+Many major destinations can be visited instantly using the `/warp` command in-game — for example, `/warp spawn` will take you to the **Keywright's Gallery**, our central hub and spawn inspired by the old *ESO* tutorial area. From there, portals provide fast travel to various key locations across Tamriel.
+
