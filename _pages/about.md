@@ -60,5 +60,6 @@ All creative work remains the property of its respective creators. Media is used
 
 We’re always looking for passionate builders and Elder Scrolls fans to join us. Whether you're here to explore or contribute, welcome to TamrielCraft.
 
-
-<!--> History to expand
+---
+**Continue reading:**  
+➡️ [Rules](/rules/) · [Credits](/credits/)
