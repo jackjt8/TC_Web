@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: single
+
 title: "About TamrielCraft"
 excerpt: "What is TamrielCraft?"
 author_profile: false
