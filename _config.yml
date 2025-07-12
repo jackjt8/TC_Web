@@ -19,6 +19,15 @@ minimal_mistakes_skin: "neon"
 locale: "en-US"
 
 
+# Reading Files
+include:
+  - _pages
+exclude: []
+keep_files: []
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+  
 # Defaults
 defaults:
   # _posts
