@@ -16,23 +16,27 @@ Here is a list of the current team at TamrielCraft:
 BlueMoony · dee · Vivec
 {: .text-center}
 
+---
+
 # 🛡️ THE ORDINATORS [Moderators/Staff]
 {:.text-center}
 
 Yvan · Nat · SamDren · Jackjt8 · NicovicTheSixth · PresidentCrabo · CaptainQuantum · Pringlulz
 {: .text-center}
 
+---
 
 # 🏛️ BUILD IMPORTS
 {:.text-center}
 
-- Balmora by 95Grumple
-- Chorrol by Jswizzy84
-- Falinesti Tree by Techno
-- Imperial City by EpicQuestz
-- Markarth by Oakshade
+Balmora by 95Grumple
+Chorrol by Jswizzy84
+Falinesti Tree by Techno
+Imperial City by EpicQuestz
+Markarth by Oakshade
 {: .text-center}
 
+---
 
 # 🎨 RESOURCE PACK
 {:.text-center}
@@ -50,6 +54,7 @@ It is maintained and modified for TamrielCraft by **Jackjt8**, with contribution
 **Music** by [Young Scrolls](https://www.youtube.com/youngscrolls), [AllinAll (Now Ganki Ro)](https://www.youtube.com/channel/UCDmZ0jUxY4vB6LHFk7d-ovg), Vindsvept
 {: .text-center}
 
+---
 
 # 🙏 COMMUNITY THANKS
 {:.text-center}
@@ -57,9 +62,10 @@ It is maintained and modified for TamrielCraft by **Jackjt8**, with contribution
 We’d like to thank everyone who has contributed to TamrielCraft over the years — builders, artists, testers, and supporters. Your efforts have shaped the world we’re building.
 {: .text-center}
 
+---
 
 # ⚖️ ATTRIBUTIONS
 {:.text-center}
 
-Media used with permission and/or under Creative Commons license. All rights reserved by their respective owners.
+*Media used with permission and/or under Creative Commons license. All rights reserved by their respective owners.*
 {: .text-center}
