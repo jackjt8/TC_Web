@@ -1,36 +1,54 @@
-title: TamrielCraft
+# Site settings
+title: "TamrielCraft"
 description: >-
   Welcome to TamrielCraft — a Minecraft server recreating the Elder Scrolls universe.
-# logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-url: "https://jackjt8.github.io"
-baseurl: "/TC_Web"
+url: "https://jackjt8.github.io"       # Main domain (no trailing slash)
+baseurl: "/TC_Web"                     # Subdirectory (with leading slash, no trailing)
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+minimal_mistakes_skin: "neon"          # Customize with any of the built-in skins
+locale: "en-US"
 
+# Logo (optional)
+# logo: "/assets/images/88x88.png"
+
+
+# Search
+search: true
+search_full_content: true
+
+
+# SEO
+# google_site_verification: "YOUR-ID-HERE"
+
+
+# Plugins
 plugins:
-  - jekyll-include-cache
+  - jekyll-include-cache               # Required for remote themes
+
 
 # Default ghpages/Jekyll
 markdown: kramdown
 highlighter: rouge
 
-# Disable/minimize these to get started
-minimal_mistakes_skin: "neon"
-locale: "en-US"
-
 
 # Reading Files
 include:
   - _pages
-exclude: []
-keep_files: []
+exclude: []                            # Empty for now
+keep_files: []                         # Empty for now
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Pagination for updates (posts)
+paginate: 5
+paginate_path: "/updates/page:num/"
 
   
 # Defaults
 defaults:
-  # _posts
+  # Blog posts (updates)
   - scope:
       path: ""
       type: posts
@@ -41,7 +59,8 @@ defaults:
       comments: false
       share: true
       related: true
-  # _pages
+    
+  # Static pages
   - scope:
       path: "_pages"
       type: pages
@@ -49,9 +68,12 @@ defaults:
       layout: single
       author_profile: false
 
-paginate: 5
-paginate_path: "/updates/page:num/"
 
+# Comments - Giscus (recommended) or Utterances
+#     Probably want to only enable comments on specific posts and/or pages
+
+
+# Footer links
 footer:
   links:
     - label: "YouTube"
@@ -61,12 +83,13 @@ footer:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/tamrielcraft/"
     - label: "PlanetMinecraft"
-      icon: "fa-solid fa-earth-europe" #Doesn't exist so need an option.
+      icon: "fas fa-globe-europe" #Doesn't exist so need an option.
       url: "https://www.planetminecraft.com/server/tamrielcraft/"
     - label: "Discord"
       icon: "fa-brands fa-discord"
       url: "https://discord.gg/ApShrYn"
 
+# Author
 author:
   name: "TamrielCraft"
   avatar: "/assets/images/tc_profile256_clean_yellow.jpg"
