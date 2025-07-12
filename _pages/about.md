@@ -3,7 +3,6 @@ permalink: /about/
 title: "About TamrielCraft"
 excerpt: "What is TamrielCraft?"
 author_profile: false
-layout: page
 ---
 
 TamrielCraft is an ambitious Minecraft project dedicated to faithfully recreating the continent of Tamriel, from The Elder Scrolls series, and its surrounding isles — one block at a time.
