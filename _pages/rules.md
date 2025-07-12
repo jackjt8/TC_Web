@@ -3,8 +3,6 @@ title: "Rules"
 excerpt: "TamrielCraft's Rules"
 permalink: /rules/
 author_profile: false
-previous: false
-next: false
 ---
 
 These rules apply to all TamrielCraft services, including the Minecraft server, Discord, and forums. They exist to maintain a respectful and collaborative environment. Violations will be handled by staff accordingly.
