@@ -7,20 +7,30 @@ author_profile: false
 nav_exclude: true
 ---
 
+<style>
+  .text-center {
+    text-align: center;
+  }
+</style>
+
 Here is a list of the current team at TamrielCraft:
 
-<div style="text-align: center;">
-
 # 🛕 THE TRIBUNAL [Administrators]
+{:.text-center}
+
 BlueMoony · dee · Vivec
 
 
 # 🛡️ THE ORDINATORS [Moderators/Staff]
+{:.text-center}
+
 Yvan · Nat · SamDren · Jackjt8 · NicovicTheSixth · PresidentCrabo · CaptainQuantum · Pringlulz
 
 
 
 # 🏛️ BUILD IMPORTS
+{:.text-center}
+
 - Balmora by 95Grumple
 - Chorrol by Jswizzy84
 - Falinesti Tree by Techno
@@ -30,6 +40,8 @@ Yvan · Nat · SamDren · Jackjt8 · NicovicTheSixth · PresidentCrabo · Captai
 
 
 # 🎨 RESOURCE PACK
+{:.text-center}
+
 The TamrielCraft Resource Pack is based on [Excalibur](https://modrinth.com/resourcepack/excal), created by **Maffhew**, and includes contributions from: **GrandPappyJay**, **Brakrel**, **Sven_Smorgasborg**, **XSSheep**, **Crescendo**, **Hoodoo**, and **Mizuno** (At the time of writing).
 It is maintained and modified for TamrielCraft by **Jackjt8**, with contributions from various TamrielCraft members, with permission from the original creator.
 
@@ -42,11 +54,14 @@ It is maintained and modified for TamrielCraft by **Jackjt8**, with contribution
 
 
 # 🙏 COMMUNITY THANKS
+{:.text-center}
+
 We’d like to thank everyone who has contributed to TamrielCraft over the years — builders, artists, testers, and supporters. Your efforts have shaped the world we’re building.
 
 
 
 # ⚖️ ATTRIBUTIONS
+{:.text-center}
+
 <em>Media used with permission and/or under Creative Commons license. All rights reserved by their respective owners.</em>
 
-</div>
