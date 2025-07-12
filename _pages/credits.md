@@ -29,11 +29,11 @@ Yvan · Nat · SamDren · Jackjt8 · NicovicTheSixth · PresidentCrabo · Captai
 # 🏛️ BUILD IMPORTS
 {:.text-center}
 
-Balmora by 95Grumple
-Chorrol by Jswizzy84
-Falinesti Tree by Techno
-Imperial City by EpicQuestz
-Markarth by Oakshade
+Balmora by 95Grumple    
+Chorrol by Jswizzy84    
+Falinesti Tree by Techno    
+Imperial City by EpicQuestz    
+Markarth by Oakshade    
 {: .text-center}
 
 ---
