@@ -25,13 +25,19 @@ collections:
     output: true
     permalink: /:path/
     directory: _pages  
-# This will auto-apply layout: single to everything in _pages/ unless overridden.
+# Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
-      type: "pages"
+      type: posts
     values:
       layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 paginate: 5
 paginate_path: "/updates/page:num/"
