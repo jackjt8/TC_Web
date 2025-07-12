@@ -3,7 +3,6 @@ permalink: /credits/
 title: "Credits"
 excerpt: "Our team"
 author_profile: false
-layout: page
 ---
 
 Here is a list of the current team at TamrielCraft:
