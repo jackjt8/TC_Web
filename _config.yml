@@ -18,6 +18,14 @@ locale: "en-US"
 #search_full_content: true # Search full page content not working likely due to GitHub Pages limitation.
 
 
+tag_archive:
+  type: liquid
+  path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+
+
 # SEO
 # google_site_verification: "YOUR-ID-HERE"
 
