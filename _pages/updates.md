@@ -11,5 +11,5 @@ search: true
 
 Stay up to date with the latest TamrielCraft news and development logs.
 
-{{ "/tags/" | relative_url }} • {{ "/categories/" | relative_url }}
+[Tags]({{ "/tags/" | relative_url }}) • [Categories]({{ "/categories/" | relative_url }})
 
