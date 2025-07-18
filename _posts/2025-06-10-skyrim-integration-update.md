@@ -11,13 +11,13 @@ toc: false
 search: true
 ---
 
-If you've noticed some strange happenings on the server lately—performance dips, shifting terrain, the occasional chunk refusing to load, or server connectivity issues—you’re not alone. Things have been a little bumpy behind the scenes, and we want to shed some light on what’s going on, and more importantly, why it’s worth the hassle.
+If you've run into strange issues on the server lately—lag spikes, terrain glitches, chunks failing to load, or even getting kicked offline—you’re not the only one. We know things have been rocky, and we want to shed some light on what’s causing the instability—and why we believe it’s worth pushing through.
 
 > As always, the best way to stay in the loop is to [join our Discord](https://discord.gg/ApShrYn), where we post smaller updates and sneak peeks in real time.
 
 ## The Vision, Years in the Making
 
-Nearly ten years ago, one of our most dedicated builders, **Fonta59**, set out to recreate **Skyrim** as faithfully as possible. It became a standalone passion project, running parallel to TamrielCraft’s main map.
+Nearly ten years ago, one of our most dedicated builders, Fonta59, began a monumental undertaking: recreating Skyrim as faithfully as possible, block by block. His goal was to match the world seen in The Elder Scrolls V: Skyrim with near 1:1 accuracy—capturing its geography, settlements, and atmosphere in painstaking detail. What started as a standalone passion project soon grew into a parallel build effort alongside the main TamrielCraft map.
 
 Some of Fonta’s work has made it into the live server over the years—cities like **Whiterun**, **Solitude**, and **Winterhold** are already familiar to long-time players. But a huge chunk of the project remained separate. The reason? The terrain and scale tweaks were so extensive that integrating the full build would have required massive changes to our existing map.
 
