@@ -1,6 +1,6 @@
 ---
 title: "Browse by Tag"
 layout: tags
-permalink: /tags/
+permalink: /updates/tags/
 author_profile: false
 ---
