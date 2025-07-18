@@ -15,6 +15,7 @@ If you've run into strange issues on the server lately—lag spikes, terrain gli
 
 > As always, the best way to stay in the loop is to [join our Discord](https://discord.gg/ApShrYn), where we post smaller updates and sneak peeks in real time.
 
+
 ## The Vision, Years in the Making
 
 Nearly ten years ago, one of our most dedicated builders, Fonta59, began a monumental undertaking: recreating Skyrim as faithfully as possible, block by block. His goal was to match the world seen in The Elder Scrolls V: Skyrim with near 1:1 accuracy—capturing its geography, settlements, and atmosphere in painstaking detail. What started as a standalone passion project soon grew into a parallel build effort alongside the main TamrielCraft map.
@@ -22,6 +23,7 @@ Nearly ten years ago, one of our most dedicated builders, Fonta59, began a monum
 Some of Fonta’s work has made it into the live server over the years—cities like **Whiterun**, **Solitude**, and **Winterhold** are already familiar to long-time players. But a huge chunk of the project remained separate. The reason? The terrain and scale tweaks were so extensive that integrating the full build would have required massive changes to our existing map.
 
 **Until now.**
+
 
 ## What’s Happening Behind the Scenes
 
@@ -33,11 +35,13 @@ Fonta is currently in the process of merging his entire overhauled Skyrim into t
 
 This kind of integration is... well, monumental. It requires hours of world editing, careful alignment, and no small amount of server resources. As we blend old and new, some side effects—like lag spikes, terrain anomalies, or visual bugs—are to be expected.
 
+
 ## Why It Matters
 
 Despite the disruption, this is one of the most exciting milestones in TamrielCraft's history.
 
-We’re moving toward a version of Skyrim that feels *immersive*, *cohesive*, and *faithful*. Every hold and mountain pass will be recreated accurately and in immense detail, all lovingly crafted block by block.
+We’re working toward a version of Skyrim that feels immersive, cohesive, and true to the source material. Every hold, road, and mountain pass is being recreated with immense care and detail—lovingly crafted, block by block, to capture the spirit and scale of the original.
+
 
 ## Looking Ahead
 
