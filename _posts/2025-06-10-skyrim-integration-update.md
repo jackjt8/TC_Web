@@ -35,6 +35,10 @@ Fonta is currently in the process of merging his entire overhauled Skyrim into t
 
 This kind of integration is... well, monumental. It requires hours of world editing, careful alignment, and no small amount of server resources. As we blend old and new, some side effects—like lag spikes, terrain anomalies, or visual bugs—are to be expected.
 
+Because Fonta’s project developed independently from the main server, there are areas where his builds now overlap with existing ones already present on TamrielCraft. In these cases, we’re engaging in detailed discussions as a team to decide which version to keep. Fonta’s builds naturally align with the new terrain—while our existing ones were shaped by the old geography and often require reworking to fit.
+
+These aren’t easy decisions. Whether it’s a village, a fort, or an entire region, we approach each case carefully, striving to honour the work of all contributors. TamrielCraft has always been a collaborative effort, and that spirit of shared vision continues to guide us—even as the world shifts beneath our feet.
+
 
 ## Why It Matters
 
