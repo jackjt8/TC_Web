@@ -15,22 +15,16 @@ author_profile: false
 }
 </style>
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer; margin-bottom: 1rem;">
-    📍 View Dynmap (tap to expand)
-  </summary>
-  <div style="margin-top: 1rem;">
-    <iframe
-      class="dynmap-embed"
-      src="https://map.tamrielcraft.eu/"
-      width="100%"
-      height="600"
-      frameborder="0"
-      allowfullscreen
-      style="border:1px solid #444; border-radius: 8px;">
-    </iframe>
-  </div>
-</details>
+<iframe 
+  class="dynmap-embed"
+  src="https://map.tamrielcraft.eu/"
+  width="100%"
+  height="600"
+  frameborder="0"
+  allowfullscreen
+  style="border:1px solid #444; border-radius: 8px;"
+  >
+  </iframe>
 
 
 ## 🗺️ Map Legend
