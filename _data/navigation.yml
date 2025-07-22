@@ -1,11 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Updates" # Blog/Updates - TODO
+  - title: "Updates"
     url: /updates/
   - title: "Rules"
     url: /rules/
-  - title: "Credits"
-    url: /credits/
   - title: "Map"
     url: /map/
+  - title: "Gallery"
+    url: /gallery/
