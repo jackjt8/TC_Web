@@ -33,6 +33,7 @@ category_archive:
 # Plugins
 plugins:
   - jekyll-include-cache               # Required for remote themes
+  - jekyll-livereload                  # Required for auto-reload on file change
 
 
 # Default ghpages/Jekyll
@@ -50,8 +51,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Pagination for updates (posts)
-paginate: 5
-paginate_path: "/updates/page:num/"
+# paginate: 5
+# paginate_path: "/updates/page:num/"
 
   
 # Defaults
