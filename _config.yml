@@ -84,6 +84,8 @@ defaults:
 # Footer links
 footer:
   links:
+    - label: "Credits"
+      url: /credits/
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@TamrielCraftOfficial"
