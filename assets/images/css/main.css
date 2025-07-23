@@ -1,0 +1,7 @@
+---
+---
+
+@import "minimal-mistakes/skins/neon";
+$accent-color: #b22222; // Your custom color (e.g., firebrick red)
+
+@import "minimal-mistakes";
