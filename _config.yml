@@ -57,6 +57,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # paginate: 5
 # paginate_path: "/updates/page:num/"
 
+navigation:
+  data: navigation
+  nav: main
   
 # Defaults
 defaults:
