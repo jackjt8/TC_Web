@@ -2,4 +2,5 @@
 ---
 
 @import "minimal-mistakes/skins/neon"; // Load base skin first
+@import "minimal-mistakes-overrides"; // Load overrides
 @import "minimal-mistakes"; // Then load the full theme
