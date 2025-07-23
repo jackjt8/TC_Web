@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner.jpg
   actions:
     - label: "Our Discord Community"
-      url: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://discord.gg/ApShrYn"
+      url: "https://discord.gg/ApShrYn"
     - label: "Join the Server"
       url: "minecraft://tamrielcraft.eu"
     - label: "Map"

@@ -1,0 +1,13 @@
+<!-- start custom footer snippets -->
+<div class="page__footer-copyright">
+  &copy;
+  {% if site.footer.since and site.footer.since != site.time | date: "%Y" %}
+    {{ site.footer.since }}–{{ site.time | date: "%Y" }}
+  {% else %}
+    {{ site.time | date: "%Y" }}
+  {% endif %}
+  <a href="{{ site.url | default: site.github.repository_url | default: '#' }}">{{ site.title }}</a>.
+  Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+  <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.
+</div>
+<!-- end custom footer snippets -->
