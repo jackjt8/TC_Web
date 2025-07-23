@@ -5,6 +5,9 @@ description: >-
 url: "https://jackjt8.github.io"       # Main domain (no trailing slash)
 baseurl: "/TC_Web"                     # Subdirectory (with leading slash, no trailing)
 
+copyright: "TamrielCraft"
+copyright_url: /credits/
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "neon"          # Customize with any of the built-in skins
 locale: "en-US"
