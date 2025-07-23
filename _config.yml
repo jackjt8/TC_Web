@@ -4,6 +4,7 @@ description: >-
   Welcome to TamrielCraft — a Minecraft server recreating the Elder Scrolls universe.
 url: "https://jackjt8.github.io"       # Main domain (no trailing slash)
 baseurl: "/TC_Web"                     # Subdirectory (with leading slash, no trailing)
+github: [metadata]
 
 copyright: "TamrielCraft"
 copyright_url: /credits/
@@ -40,7 +41,10 @@ category_archive:
 plugins:
   - jekyll-include-cache               # Required for remote themes
   - jekyll-livereload                  # Required for auto-reload on file change
-
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Default ghpages/Jekyll
 markdown: kramdown
