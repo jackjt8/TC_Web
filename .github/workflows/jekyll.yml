@@ -1,3 +1,2 @@
 env:
   JEKYLL_ENV: production
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
