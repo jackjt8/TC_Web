@@ -50,7 +50,8 @@ highlighter: rouge
 # Reading Files
 include:
   - _pages
-exclude: []                            # Empty for now
+exclude:
+  - vendor/bundle
 keep_files: []                         # Empty for now
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
