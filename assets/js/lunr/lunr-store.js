@@ -1,6 +1,6 @@
 var store = [{
         "title": "Leadership Changes – Tribunal and Staff Update",
-        "excerpt":"Tribunal Transition On February 16th, 2025, CaptumQuantum officially stepped down from his position as a member of the Tribunal. After much discussion, Captum chose to step back from this leadership role to focus on other priorities, but he remains part of the team as Staff — and has made it...","categories": ["updates"],
+        "excerpt":"Tribunal Transition On February 16th, 2025, CaptumQuantum officially stepped down from his position as a member of the Tribunal. After much discussion, CaptumQuantum chose to step back from this leadership role to focus on other priorities, but he remains part of the team as Staff — and has made it...","categories": ["updates"],
         "tags": ["community","staff","tribunal","update"],
         "url": "/TC_Web/updates/2025/02/16/leadership-changes.html",
         "teaser": null
