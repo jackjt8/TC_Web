@@ -3,8 +3,7 @@ layout: splash
 title: "Gallery"
 permalink: /gallery/
 header:
-    image: /assets/images/gallery/mini_planet_tamriel_s.jpg
-    caption: "[Download]({{ '/assets/images/gallery/mini_planet_tamriel.jpg' | relative_url }})"
+    image: /assets/images/gallery/high_rock/stormhaven_region_s.jpg
 
 blackmarsh:
   - url: /assets/images/gallery/blackmarsh/stormhold.png
@@ -78,7 +77,7 @@ hammerfell:
     alt: "A shot showing the town of Stonemoor."
     title: "The town of Stonemoor taken by Jackjt8"
   - url: /assets/images/gallery/hammerfell/stonemoor_ext3.png
-    image_path: /assets/images/gallery/hammerfell/stonemoor_ext3.jpg
+    image_path: /assets/images/gallery/hammerfell/stonemoor_ext3_s.jpg
     alt: "Stonemoors hilltop Kasbah overlooks the city."
     title: "Kasbah overlook taken by Jackjt8"
   - url: /assets/images/gallery/hammerfell/sentinel.jpg
@@ -91,10 +90,6 @@ high_rock:
     image_path: /assets/images/gallery/high_rock/alcaire_polanos_2_s.jpg
     alt: "Alcaire Castle"
     title: "Alcaire Castle taken by Jackjt8"
-  - url: /assets/images/gallery/high_rock/stormhaven_region.png
-    image_path: /assets/images/gallery/high_rock/stormhaven_region_s.jpg
-    alt: "A panorama of the Stormhaven Region."
-    title: "Light fills the Stormhaven Region taken by Jackjt8"
   - url: /assets/images/gallery/high_rock/alcaire.jpg
     image_path: /assets/images/gallery/high_rock/alcaire_s.jpg
     alt: "An aerial shot overlooking the city of Alcaire and the Stormhaven Region."
@@ -212,7 +207,7 @@ vvardenfell:
 
 Welcome to the **TamrielCraft Gallery** — a visual showcase of some of our most iconic and ongoing builds. These images are contributed by our builders and highlight the scale, creativity, and lore accuracy we strive for.
 
-> 📸 Want to contribute a screenshot? Share it in the `#screenshot` channel on our [Discord](https://discord.gg/ApShrYn)!
+> 📸 Want to contribute a screenshot? Share it in the `#screenshots` channel on our [Discord](https://discord.gg/ApShrYn)!
 
 ## Black Marsh
 {% include gallery id="blackmarsh" %}

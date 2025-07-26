@@ -15,16 +15,16 @@ share: true
 
 ## Tribunal Transition
 
-On February 16th, 2025, **CaptumQuantum** officially stepped down from his position as a member of the Tribunal. After much discussion, Captum chose to step back from this leadership role to focus on other priorities, but he remains part of the team as **Staff** — and has made it clear that he’s happy to step in again when needed.
+On February 16th, 2025, **CaptumQuantum** officially stepped down from his position as a member of the Tribunal. After much discussion, CaptumQuantum chose to step back from this leadership role to focus on other priorities, but he remains part of the team as **Staff** — and has made it clear that he’s happy to step in again when needed.
 
-We want to thank Captum for his invaluable leadership, insight, and dedication during his time on the Tribunal. His influence has shaped many areas of the server and his continued presence on the team is deeply appreciated.
+We want to thank CaptumQuantum for his invaluable leadership, insight, and dedication during his time on the Tribunal. His influence has shaped many areas of the server and his continued presence on the team is deeply appreciated.
 
 
 ## A New Tribunal Member
 
-Following Captum’s departure, we’re pleased to announce that **Dee** has been promoted from Staff to Tribunal.
+Following CaptumQuantum's departure, we’re pleased to announce that **Dee** has been promoted from Staff to Tribunal.
 
-Dee has been a cornerstone of TamrielCraft’s progress in recent years, contributing an incredible number of high-quality builds — especially across **Solstheim** and **Vvardenfell**. Many iconic locations owe their form to Dee’s work, including:
+Dee has been a cornerstone of TamrielCraft’s progress for many years, contributing an incredible number of high-quality builds — especially across **Solstheim** and **Vvardenfell**. Many iconic locations owe their form to Dee’s work, including:
 
 - **Old Ebonheart** (inspired by *The Elder Scrolls Online*)  
 - **Skaal Village**  
@@ -54,8 +54,8 @@ In addition to moderation and support, Nat has contributed to a wide variety of 
 - **Bthuand**  
 - The **Keywright’s Gallery**
 
-While our documentation doesn’t capture everything Nat has worked on (yet!), their fingerprints are all over the world — often in areas where thoughtful, atmospheric design is key. With Dee’s move to Tribunal, the time felt right to officially bring Nat onto the Staff team.
+Nat's fingerprints are all over the world — often in areas where thoughtful, atmospheric design is key. With Dee’s move to Tribunal, the time felt right to officially bring Nat onto the Staff team.
 
 ---
 
-TamrielCraft is a community-driven project, and it's people like Captum, Dee, and Nat who help keep it alive — one build, one conversation, and one idea at a time. Thank you all for being part of this journey.
+TamrielCraft is a community-driven project, and it's people like CaptumQuantum, Dee, and Nat who help keep it alive — one build, one conversation, and one idea at a time. Thank you all for being part of this journey and we hope you'll join us as we pave the road ahead!
