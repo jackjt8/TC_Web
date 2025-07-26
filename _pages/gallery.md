@@ -3,6 +3,22 @@ layout: splash
 title: "Gallery"
 permalink: /gallery/
 cyrodiil:
+  - url: /assets/images/gallery/cyrodiil/imperial_city.png
+    image_path: /assets/images/gallery/cyrodiil/imperial_city_s.jpg
+    alt: "The Imperial City."
+    title: "The Imperial City taken by Jackjt8"
+  - url: /assets/images/gallery/cyrodiil/bawn_int.png
+    image_path: /assets/images/gallery/cyrodiil/bawn_int_s.jpg
+    alt: "Interior shot of one of Bawn's chambers"
+    title: "Ayleid Mysteries taken by Jackjt8"
+  - url: /assets/images/gallery/cyrodiil/kvatch_day.png
+    image_path: /assets/images/gallery/cyrodiil/kvatch_day_s.jpg
+    alt: "Kvatch Mage Guild"
+    title: "The dragon eats.. taken by Jackjt8"
+  - url: /assets/images/gallery/cyrodiil/cheydinhal.png
+    image_path: /assets/images/gallery/cyrodiil/cheydinhal_s.jpg
+    alt: "The Imperial City."
+    title: "The Imperial City taken by Jackjt8"
   - url: /assets/images/gallery/cyrodiil/kvatch_night.jpg
     image_path: /assets/images/gallery/cyrodiil/kvatch_night_s.jpg
     alt: "An aerial shot overlooking the city of Kvatch during the night."
@@ -13,14 +29,46 @@ elsweyr:
     image_path: /assets/images/gallery/elsweyr/eagles_strand_s.jpg
     alt: "An aerial shot overlooking the camp at Eagles Strand."
     title: "Eagle Strand taken by Jackjt8"
+  - url: /assets/images/gallery/elsweyr/kr_t_Polanos.png
+    image_path: /assets/images/gallery/elsweyr/kr_t_Polanos_s.jpg
+    alt: "The shipwrecks of Khenarthi's Roost"
+    title: "The shipwrecks of Khenarthi's Roost taken by Polanos"
+  - url: /assets/images/gallery/elsweyr/mistral.png
+    image_path: /assets/images/gallery/elsweyr/mistral_s.jpg
+    alt: "The port city of Mistral at sunset."
+    title: "The Jewal of the southern sea taken by Jackjt8"
+  - url: /assets/images/gallery/elsweyr/temple_crescent_moons_samdren_2.png
+    image_path: /assets/images/gallery/elsweyr/temple_crescent_moons_samdren_2_s.jpg
+    alt: "The Temple of the Crescent Moons at night"
+    title: "A moonlit night taken by Jackjt8"
     
 hammerfell:
+  - url: /assets/images/gallery/hammerfell/sentinel_carca_3.png
+    image_path: /assets/images/gallery/hammerfell/sentinel_carca_3_s.jpg
+    alt: "The city of Sentinel and the Iliac Bay."
+    title: "Sentinel and the Iliac Bay taken by Jackjt8"
+  - url: /assets/images/gallery/hammerfell/stonemoor_ext2.png
+    image_path: /assets/images/gallery/hammerfell/stonemoor_ext2_s.jpg
+    alt: "A shot showing the town of Stonemoor."
+    title: "The town of Stonemoor taken by Jackjt8"
+  - url: /assets/images/gallery/hammerfell/stonemoor_ext3.png
+    image_path: /assets/images/gallery/hammerfell/stonemoor_ext3.jpg
+    alt: "Stonemoors hilltop Kasbah overlooks the city."
+    title: "Kasbah overlook taken by Jackjt8"
   - url: /assets/images/gallery/hammerfell/sentinel.jpg
     image_path: /assets/images/gallery/hammerfell/sentinel_s.jpg
-    alt: "An aerial shot overlooking the city of Sentinel and the Iliac Bay."
-    title: "Sentinel and the Iliac Bay taken by Jackjt8"
+    alt: "An aerial shot overlooking the city of Sentinel and the Iliac Bay while misty."
+    title: "Mists of the Iliac Bay taken by Jackjt8"
     
 high_rock:
+  - url: /assets/images/gallery/high_rock/alcaire_polanos_2.png
+    image_path: /assets/images/gallery/high_rock/alcaire_polanos_2_s.jpg
+    alt: "Alcaire Castle"
+    title: "Alcaire Castle taken by Jackjt8"
+  - url: /assets/images/gallery/high_rock/stormhaven_region.png
+    image_path: /assets/images/gallery/high_rock/stormhaven_region_s.jpg
+    alt: "A panorama of the Stormhaven Region."
+    title: "Light fills the Stormhaven Region taken by Jackjt8"
   - url: /assets/images/gallery/high_rock/alcaire.jpg
     image_path: /assets/images/gallery/high_rock/alcaire_s.jpg
     alt: "An aerial shot overlooking the city of Alcaire and the Stormhaven Region."
