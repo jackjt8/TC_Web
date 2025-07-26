@@ -2,6 +2,28 @@
 layout: splash
 title: "Gallery"
 permalink: /gallery/
+header:
+    image: /assets/images/gallery/mini_planet_tamriel_s.jpg
+    caption: "[Download]({{ '/assets/images/gallery/mini_planet_tamriel.jpg' | relative_url }})"
+
+blackmarsh:
+  - url: /assets/images/gallery/blackmarsh/stormhold.png
+    image_path: /assets/images/gallery/blackmarsh/stormhold_s.jpg
+    alt: "The city of Stormhold, Blackmarsh"
+    title: "Stormhold 1 taken by Jackjt8"
+  - url: /assets/images/gallery/blackmarsh/branchmont.png
+    image_path: /assets/images/gallery/blackmarsh/branchmont_s.jpg
+    alt: "The imperial port of Branchmont."
+    title: "Branchmont taken by Jackjt8"
+  - url: /assets/images/gallery/blackmarsh/thorn.png
+    image_path: /assets/images/gallery/blackmarsh/thorn_s.jpg
+    alt: "A view of the giant dragonfly port in thorn."
+    title: "Tranportation of Blackmarsh taken by Jackjt8"
+  - url: /assets/images/gallery/blackmarsh/stormhold_2.png
+    image_path: /assets/images/gallery/blackmarsh/stormhold_2_s.jpg
+    alt: "The city of Stormhold, Blackmarsh"
+    title: "Stormhold 2 taken by Jackjt8"
+
 cyrodiil:
   - url: /assets/images/gallery/cyrodiil/imperial_city.png
     image_path: /assets/images/gallery/cyrodiil/imperial_city_s.jpg
@@ -143,6 +165,10 @@ solstheim:
     image_path: /assets/images/gallery/solstheim/fahlbtharz_s.jpg
     alt: "The ancient ruins of Fahlbtharz"
     title: "Fahlbtharz taken by Jackjt8"
+  - url: /assets/images/gallery/solstheim/fort_frostmoth.png
+    image_path: /assets/images/gallery/solstheim/fort_frostmoth_s.jpg
+    alt: "The ocean to the south of Fort Frostmoth, the isle of Vvardenfell in the distance"
+    title: "Abandoned fort taken by Jackjt8"
     
 summerset_isles:
   - url: /assets/images/gallery/summerset_isles/alinor.jpg
@@ -153,11 +179,43 @@ summerset_isles:
     image_path: /assets/images/gallery/summerset_isles/ceporah_tower_s.jpg
     alt: "Ceporah Tower"
     title: "Ceporah Tower taken by Jackjt8"
+    
+valenwood:
+  - url: /assets/images/gallery/valenwood/elden_root_t_nat.png
+    image_path: /assets/images/gallery/valenwood/elden_root_t_nat_s.jpg
+    alt: "Someplace within Elden Root that I forgot the name of."
+    title: "Elden Root taken by Nat"
+  - url: /assets/images/gallery/valenwood/elden_root_undaunted_enclave.png
+    image_path: /assets/images/gallery/valenwood/elden_root_undaunted_enclave_s.jpg
+    alt: "The Undaunted Enclave within Elden Root"
+    title: "The Undaunted taken by Jackjt8"
+   
+vvardenfell:
+  - url: /assets/images/gallery/vvardenfell/vvardenfell.png
+    image_path: /assets/images/gallery/vvardenfell/vvardenfell_s.jpg
+    alt: "The isle of Vvardenfell from above."
+    title: "Vvardenfell taken by Jackjt8"
+  - url: /assets/images/gallery/vvardenfell/red_mountain.png
+    image_path: /assets/images/gallery/vvardenfell/red_mountain_s.jpg
+    alt: "A view of red mountain from above"
+    title: "Red Mountain taken by Jackjt8"
+  - url: /assets/images/gallery/vvardenfell/sadrith_mora_nat_1.png
+    image_path: /assets/images/gallery/vvardenfell/sadrith_mora_nat_1_s.jpg
+    alt: "Sadrith Mora's docks."
+    title: "Telvanni chaos taken by Jackjt8"
+  - url: /assets/images/gallery/vvardenfell/vivec_city.png
+    image_path: /assets/images/gallery/vvardenfell/vivec_city_s.jpg
+    alt: "Overlooking Vivec City from above."
+    title: "Vivec City taken by Jackjt8"
+    
 ---
 
 Welcome to the **TamrielCraft Gallery** — a visual showcase of some of our most iconic and ongoing builds. These images are contributed by our builders and highlight the scale, creativity, and lore accuracy we strive for.
 
 > 📸 Want to contribute a screenshot? Share it in the `#screenshot` channel on our [Discord](https://discord.gg/ApShrYn)!
+
+## Black Marsh
+{% include gallery id="blackmarsh" %}
 
 ## Cyrodiil
 {% include gallery id="cyrodiil" %}
@@ -182,3 +240,9 @@ Welcome to the **TamrielCraft Gallery** — a visual showcase of some of our mos
 
 ## Summerset Isles
 {% include gallery id="summerset_isles" %}
+
+## Valenwood
+{% include gallery id="valenwood" %}
+
+## Vvardenfell
+{% include gallery id="vvardenfell" %}
