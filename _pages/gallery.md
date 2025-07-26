@@ -15,6 +15,10 @@ cyrodiil:
     image_path: /assets/images/gallery/cyrodiil/kvatch_day_s.jpg
     alt: "Kvatch Mage Guild"
     title: "The dragon eats.. taken by Jackjt8"
+  - url: /assets/images/gallery/cyrodiil/fort_strand_int.png
+    image_path: /assets/images/gallery/cyrodiil/fort_strand_int_s.jpg
+    alt: "The halls of Fort Strand"
+    title: "Fort Strand taken by Jackjt8"
   - url: /assets/images/gallery/cyrodiil/cheydinhal.png
     image_path: /assets/images/gallery/cyrodiil/cheydinhal_s.jpg
     alt: "The Imperial City."
@@ -75,20 +79,56 @@ high_rock:
     title: "Alcaire Castle and the Stormhaven Region taken by Jackjt8"
     
 morrowind:
+  - url: /assets/images/gallery/morrowind/necrom.png
+    image_path: /assets/images/gallery/morrowind/necrom_s.jpg
+    alt: "A view of the city of the dead, Necrom."
+    title: "Necrom taken by Jackjt8"
+  - url: /assets/images/gallery/morrowind/nnivalis_t_Dekae_.png
+    image_path: /assets/images/gallery/morrowind/nivalis_t_Dekae__s.jpg
+    alt: "The imperial settlement of Nivalis on the isle of Althoa."
+    title: "Streets of Nivalis taken by Dekae_"
   - url: /assets/images/gallery/morrowind/necrom_watchtower.jpg
     image_path: /assets/images/gallery/morrowind/necrom_watchtower_s.jpg
     alt: "A view of the city of the dead, Necrom."
     title: "Overlooking a city of the dead taken by Jackjt8"
-  - url: /assets/images/gallery/morrowind/necrom_watchtower.jpg
-    image_path: /assets/images/gallery/morrowind/necrom_watchtower_s.jpg
-    alt: "A view of the city of the dead, Necrom."
-    title: "Overlooking a city of the dead taken by Jackjt8"
-  - url: /assets/images/gallery/morrowind/necrom_watchtower.jpg
-    image_path: /assets/images/gallery/morrowind/necrom_watchtower_s.jpg
-    alt: "A view of the city of the dead, Necrom."
-    title: "Overlooking a city of the dead taken by Jackjt8"
+  - url: /assets/images/gallery/morrowind/eastwatch_keep_int_t_Sover.png
+    image_path: /assets/images/gallery/morrowind/eastwatch_keep_int_t_Sover_s.jpg
+    alt: "A chamber found below Eastwatch Keep, Dres District... what horrors"
+    title: "Horrors under Eastwatch Keep taken by Sover"
+  - url: /assets/images/gallery/morrowind/necrom_night_t_Sover.png
+    image_path: /assets/images/gallery/morrowind/necrom_night_t_Sover_s.jpg
+    alt: "A view of the city of the dead, Necrom, at night."
+    title: "Darkness looms over Necrom taken by Sover"
+  - url: /assets/images/gallery/morrowind/yengrith.png
+    image_path: /assets/images/gallery/morrowind/yengrith_s.jpg
+    alt: "The port of Yengrith"
+    title: "The port of Yengrith taken by Jackjt8"
 
 skyrim:
+  - url: /assets/images/gallery/skyrim/whiterun.png
+    image_path: /assets/images/gallery/skyrim/whiterun_s.jpg
+    alt: "The city of Whierun."
+    title: "Whiterun taken by Jackjt8"
+  - url: /assets/images/gallery/skyrim/largashbur.png
+    image_path: /assets/images/gallery/skyrim/largashbur_s.jpg
+    alt: "The orc stronghold of Largashbur in the Reach."
+    title: "Orc stronghold taken by Jackjt8"
+  - url: /assets/images/gallery/skyrim/solitude.png
+    image_path: /assets/images/gallery/skyrim/solitude_s.jpg
+    alt: "Solitude and surroundings 1"
+    title: "Solitude 1 by Jackjt8"
+  - url: /assets/images/gallery/skyrim/ustengrav_TheDreVMiros.png
+    image_path: /assets/images/gallery/skyrim/ustengrav_TheDreVMiros_s.jpg
+    alt: "The eerie darkness and weight of legends... Ustengrav"
+    title: "Shadows taken by Jackjt8"
+  - url: /assets/images/gallery/skyrim/windstad_manor.png
+    image_path: /assets/images/gallery/skyrim/windstad_manor_s.jpg
+    alt: "Windstad Manor overlooking Solitude and the swamps."
+    title: "A micro-climate by Jackjt8"
+  - url: /assets/images/gallery/skyrim/solitude_2.png
+    image_path: /assets/images/gallery/skyrim/solitude_2_s.jpg
+    alt: "Another view of Solitude."
+    title: "Solitude 2 taken by Jackjt8"
   - url: /assets/images/gallery/skyrim/dunmereth_pass.jpg
     image_path: /assets/images/gallery/skyrim/dunmereth_pass_s.jpg
     alt: "Guard captains office within Dunmereth Pass."
